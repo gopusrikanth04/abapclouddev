@@ -1,6 +1,6 @@
-     METHOD getdiscountedprice.
+  METHOD getdiscountedprice.
 
- DATA disc TYPE i.
+    DATA disc TYPE i.
 
 
   ENDMETHOD.
