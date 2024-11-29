@@ -4,6 +4,6 @@ CLASS zro_discount_calc DEFINITION
   CREATE PUBLIC .
 
   PUBLIC SECTION.
-      METHODS getdiscountedprice IMPORTING price TYPE i
-                  warranty TYPE z_warranty
-    RETURNING value(result) TYPE i.
+    METHODS getdiscountedprice IMPORTING price         TYPE i
+                                         warranty      TYPE z_warranty
+                               RETURNING VALUE(result) TYPE i.
