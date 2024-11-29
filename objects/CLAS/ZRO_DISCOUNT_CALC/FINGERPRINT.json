@@ -1,0 +1,50 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZRO_DISCOUNT_CALC=============CCAU.abap",
+   "fingerprint":"8DIjfhchiH30YpoOypBTmpTfO1BD1T51KLR9zHAkaUzWBL4dP4chR4iqh0C7RCAZNoZZ1MOfEzXy7PNJW1Mb0g=="
+  },
+  {
+   "name":"CINC ZRO_DISCOUNT_CALC=============CCDEF.abap",
+   "fingerprint":"DoBdLovpDPVKQT8IOocLgAk1xjWrI6ii2Hq+5s4evVP00iQFRJkoPkwse0nR0eVBM9/LQVxYxGLGWAgCybWuGA=="
+  },
+  {
+   "name":"CINC ZRO_DISCOUNT_CALC=============CCIMP.abap",
+   "fingerprint":"4QExtPhtk1s2SytI9ce1SeLYs8ZsBdngA5PEqSH0dN3KuT/z7WVtlwc5VVqaGivgBjYwWyY7NAZ8UfvxqY6ixA=="
+  },
+  {
+   "name":"CINC ZRO_DISCOUNT_CALC=============CCMAC.abap",
+   "fingerprint":"hjJul76LDKtdcrY7tAn1OQpVMHryo3DVZtxlMHW0mPDhVLhoBmfyJADaSBbg1zJ+iSiSsTg1YXYxfG5PYimyvw=="
+  },
+  {
+   "name":"CLAS ZRO_DISCOUNT_CALC.asx.json",
+   "fingerprint":"dCfWFAQNs4offLdkl6A1h/EpSRNwRqizNoRoNbTLWaNAdSVj6ms3Nuuc9xeBjxpo7+VCAvKZTscMJ1SwYUh6iQ=="
+  },
+  {
+   "name":"CLSD ZRO_DISCOUNT_CALC.abap",
+   "fingerprint":"iOZV5Knrb9cNHoM8sRQ0nILYyJEFWtbZo5md4lM4D2+eHL99sKnANsODkCFy5kJ0aNlnrjst5XDpqevGdZ3Rpg=="
+  },
+  {
+   "name":"CPRI ZRO_DISCOUNT_CALC.abap",
+   "fingerprint":"GmNSUi/Uf0BDwqYiSluqyxsZNqHdatE0n05VJomDiyEAU+ARrRxg1ENgGm4IMHLgpBlYfMRMQErHiB3IgsbA+Q=="
+  },
+  {
+   "name":"CPRO ZRO_DISCOUNT_CALC.abap",
+   "fingerprint":"0NGOKeod8XyathKNHaUoWI0gDF1nnwcf3WPAnwYhp1zzablEKsWYPJm4TUnn8WB2NOca3mDQfm+A6rZfM+Zxwg=="
+  },
+  {
+   "name":"CPUB ZRO_DISCOUNT_CALC.abap",
+   "fingerprint":"+F0c5pPmVstuqzk1fYA+HowTJ2HYWbTGNepRdIdl+MOk5mvb9iLo1aiF9MRLEhDLpII7R1xh8y6akDHqf3Vb2w=="
+  },
+  {
+   "name":"METH GETDISCOUNTEDPRICE.abap",
+   "fingerprint":"bzoYsn8kN9ukCPRasr69hmRPev1GYh9gXYhqmPuDMCCYfKNU301DhkDlXwik7enBWMthrVK6yDSi6GGACvxkuA=="
+  },
+  {
+   "name":"REPS ZRO_DISCOUNT_CALC=============CT.abap",
+   "fingerprint":"LSyATZxnVRGYZr7djkuQDW1pQPbkCXZ6mKly6SjrvQHx12pZ2yv99RBsvkArLbireeL+zmARzU+NURqUzFksdQ=="
+  }
+ ],
+ "fingerprintAll":"LUGUBBch1HOb00s4muAVo7T4uYB5u53gQ6/UuDfp2wbcZvzsTBtFVF8z0vMpVkCLS7P9uFh619LkbMx9MMM6oQ=="
+}
