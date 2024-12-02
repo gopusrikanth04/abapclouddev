@@ -1,0 +1,50 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZBP_PRODUCT_D=================CCAU.abap",
+   "fingerprint":"CFV81BgeXgdeZURNEicKhQD3khH3zYEUeO7myZotk9gBwHXP/CQEquBElMKu4LpzA9uDFDLDrg6r35tw2wlQyQ=="
+  },
+  {
+   "name":"CINC ZBP_PRODUCT_D=================CCDEF.abap",
+   "fingerprint":"vWovnrixgxVAqoay9cRIMCJxEz5GvkhYYT4jzD/Uh5DyOTVjuwTGIT8WAxRfW0QBoTplYOaNXG4RJ5N2kD9S2Q=="
+  },
+  {
+   "name":"CINC ZBP_PRODUCT_D=================CCIMP.abap",
+   "fingerprint":"oJw5jrzWRW+If95pqvo9lir7Q0MZcxyrqpnjjsWf9zFjTbrpwlqO755bgvCdIIjPBrKBR9nzhtLJTSyhoCU+Sg=="
+  },
+  {
+   "name":"CINC ZBP_PRODUCT_D=================CCMAC.abap",
+   "fingerprint":"LOQbWmkgG0OzW6jtIptUO9y5QnD33mLcEDDz4r1sdDTYETFzrAG+822KN1HgowOxoEwGHh4YyKVs4qm+C3k9Jw=="
+  },
+  {
+   "name":"CLAS ZBP_PRODUCT_D.asx.json",
+   "fingerprint":"LZf30NTJdj9o9g4k4xn50UEWbcNVY19F+xutiEYtduMJc1yB0pyyk0oVGzvmW6Qh5oV4Eje4RvIqvkAgAPKUtQ=="
+  },
+  {
+   "name":"CLSD ZBP_PRODUCT_D.abap",
+   "fingerprint":"CWhPyaRVs8cgjtqMgoHba0DqteqUQFibluYHAEmSk8rL4+Wd0wym9QQ1OusKl5ks3kX3+PNeICfw4IFgJmLjrw=="
+  },
+  {
+   "name":"CPRI ZBP_PRODUCT_D.abap",
+   "fingerprint":"8Pzfc/xcYs7/WfmiBdvFOwJpP0LTyQwL5TY9WcH1WVQuYWA+9lDjtUUVKEz0Fv0psjZd0kPB9+o9uG6Sg8kgXg=="
+  },
+  {
+   "name":"CPRO ZBP_PRODUCT_D.abap",
+   "fingerprint":"y22S4KOS9eZ/QUPCW6Ft0b4CTE2iFiHCcbfv2H42wXuJyzDnfzomFJHn75/zUS2lwV+OIrK+Z5veZWCTnBIqjQ=="
+  },
+  {
+   "name":"CPUB ZBP_PRODUCT_D.abap",
+   "fingerprint":"Ft/C0FkG6qUYTqGQmTUgOoZXHux2cvBprunmvm1X24Ipm9L1ZvE1UteF5WgNeA55L5Lf1NA4RxI6CfM3b7Y8sA=="
+  },
+  {
+   "name":"METH IF_OO_ADT_CLASSRUN~MAIN.abap",
+   "fingerprint":"kv39TpI4w68PwLkukxyY4DIcP+6n024UT0Z43eMEn4avNzoufIA5p6DyU6S3PrOnYCT9xry72RBs/m46WM4dpQ=="
+  },
+  {
+   "name":"REPS ZBP_PRODUCT_D=================CT.abap",
+   "fingerprint":"E+DiGKJWDLWgyw1sN7MpmQ/jEPRePK/poBLBBkOI6O0GAiTljjpLpQQXLjCj5xcAW0D+j/zhxcJCNRzYY/UOVA=="
+  }
+ ],
+ "fingerprintAll":"KKpUToPxQpDivqeEMa8J6IrzzAeP763yRim6H19Pd3RuPLyZs5cWUGX9TIYvRm/ZfOqR1NhQkooDduZo7MkR7A=="
+}
